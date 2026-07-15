@@ -33,7 +33,7 @@ I build products **end to end** - interface, backend, database, authentication, 
 | **Qanoon** | AI legal research assistant for Pakistani law with cited statute-backed answers | Next.js, RAG, Supabase, Vector Search, Vercel | [In Orbit](https://legal-rag-assistant-two.vercel.app/) |
 | **3D Space Portfolio** | Explorable 3D solar system - a glowing sun, orbiting planets, and fly-to camera transitions | Next.js, Three.js, React Three Fiber | [In Orbit](https://interactive-3js-portfolio.vercel.app/) |
 | **2D Floor Plan to 3D** | Converts residential floor plans into interactive 3D walkthrough visualizations | OpenCV, CNNs, 3D Visualization | [In Orbit](https://fypwebsite-black.vercel.app/) |
-| **TradeRank** | Marketing platform for local service businesses with dashboards and lead flows | Next.js, Tailwind CSS, SEO | On Launchpad |
+| **TradeRank** | Marketing platform for local service businesses with dashboards and lead flows | Next.js, Tailwind CSS, SEO | In Orbit |
 | **2D Coloring Game** | Interactive Unity coloring game with fill-in mechanics and palette selection | Unity, C# | [In Orbit](https://play.unity.com/en/user/59fc24ac-5cec-4c94-b9f7-1c71ca3e973d) |
 
 <details>
